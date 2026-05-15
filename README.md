@@ -15,4 +15,4 @@ This project builds on JS1, covering more advanced basic concepts including arra
 60/60
 
 ## 📁 Files
-Source code from Great Learning course assessment.
+Source code! 
